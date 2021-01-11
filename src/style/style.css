@@ -1,0 +1,32 @@
+.search-bar {
+  margin: 10px;
+  text-align: center;
+}
+.search-bar img {
+  width: 200px;
+  margin-right: 30px;
+  margin-top: -10px;
+}
+
+.search-bar input {
+  width: 55%;
+}
+
+.video-item img {
+  max-width: 1004px;
+}
+
+.video-detail .details {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #eee;
+}
