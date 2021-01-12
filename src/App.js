@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import _ from "lodash";
-import "./App.css";
+import "./style/style.css";
 import YouTubeSearch from "youtube-api-search";
 import SearchBar from "./Components/searchBar";
 import VideoList from "./Components/videoList";
@@ -29,7 +29,7 @@ class App extends Component {
     }, 300);
 
     return (
-      <div className="container">
+      <div className="app-screen">
         <SearchBar onSearchTermChange={videoSearch} />
         <div className="row">
           <div className="col-md-8">

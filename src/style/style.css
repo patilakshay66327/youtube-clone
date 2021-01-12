@@ -1,3 +1,8 @@
+.app-screen {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
 .search-bar {
   margin: 10px;
   text-align: center;
@@ -10,6 +15,8 @@
 
 .search-bar input {
   width: 55%;
+  padding-left: 10px !important;
+  padding: 5px;
 }
 
 .video-item img {
@@ -29,4 +36,14 @@
 
 .list-group-item:hover {
   background-color: #eee;
+}
+
+.ifram-container {
+  width: 100%;
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  width: 100%;
+  height: 600px;
 }
