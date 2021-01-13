@@ -14,7 +14,7 @@ class App extends Component {
 
     this.state = { videos: [], selectedVideo: null };
 
-    this.videoSearch("peoplesareawesome");
+    this.videoSearch("ICC Cricket");
   }
 
   videoSearch(term) {
