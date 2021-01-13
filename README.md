@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Create React App for the Youtube Clone applcaition
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React Starter App](https://github.com/patilakshay66327/React-Starter-App).
+
+## This clone is uploaded on the git-pages server live Get and Check Down : [Click for Live Demo](https://patilakshay66327.github.io/youtube-clone/).
 
 ## Available Scripts
 
